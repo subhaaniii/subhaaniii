@@ -1,85 +1,265 @@
-# Hi, I'm Mahrufa Binta Ali
+<div align="center">
 
-I work on AI/ML research and applied software projects, with a focus on building, testing, and evaluating intelligent systems.
+# Hi, I'm Mahrufa Binta Ali ✨
 
-My current work explores how machine learning models learn useful representations, align different types of data, and perform in retrieval-based tasks. I am especially interested in multimodal learning, representation learning, model evaluation, medical AI, retrieval systems, and applied AI systems.
+### AI/ML Research & Applied Software Development  
+### Multimodal Learning • Model Evaluation • Retrieval Systems • Applied AI Systems
 
----
+</div>
 
-## Research & Technical Interests
+<br>
 
-- Machine Learning and Deep Learning
-- Multimodal Learning
-- Representation Learning
-- Retrieval Systems
-- Medical AI Evaluation
-- Trustworthy Model Evaluation
-- Applied AI Systems
-- AI-powered Web Applications
+## 👩‍💻 About Me
 
----
+<img align="right" alt="Coding" width="280" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24">
 
-## Featured AI/ML Projects
+I work on **AI/ML research** and **applied software projects**, with a focus on building, testing, and evaluating intelligent systems.
 
-### Spectral Geometry Embedding Analysis
+My current work explores how machine learning models learn useful representations, align different types of data, and perform in retrieval-based tasks. I am especially interested in:
+
+- 🧠 **Multimodal learning**
+- 🔍 **Retrieval systems**
+- 📊 **Model evaluation**
+- 🧬 **Representation learning**
+- 🏥 **Medical AI**
+- 🛠️ **Applied AI systems**
+
+I like building projects that do not stop at:
+
+> “The model trained successfully.”
+
+I care about what the model actually learned, how it behaves, where it fails, and whether the evaluation proves meaningful progress.
+
+<br clear="right"/>
+
+<div align="center">
+
+`✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦`
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
+</p>
+
+<br/>
+
+<br/>
+
+<div align="center">
+
+<br/>
+
+<div align="center">
+
+## ✨ Research & Technical Interests ✨
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">🧠 AI/ML Research</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-4F46E5?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Representation%20Learning-7C3AED?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Multimodal%20Learning-9333EA?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Medical%20AI-0F766E?style=for-the-badge" />
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">📊 Evaluation & Retrieval</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Model%20Evaluation-7C3AED?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Retrieval%20Systems-2563EB?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Contrastive%20Learning-4F46E5?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Embedding%20Diagnostics-9333EA?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Trustworthy%20AI-0F766E?style=for-the-badge" />
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🛠️ Applied Software</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Applied%20AI%20Systems-2563EB?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Web%20Applications-111827?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/API%20Integration-4F46E5?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Research%20Workflows-7C3AED?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Reproducible%20Docs-0F766E?style=for-the-badge" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
+</p>
+
+## 🚀 Featured AI/ML Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Spectral Geometry Embedding Analysis
+
+[![Focus](https://img.shields.io/badge/Focus-Embedding%20Geometry-7B68EE?style=flat-square)]()
+[![Area](https://img.shields.io/badge/Area-Representation%20Analysis-5F9EA0?style=flat-square)]()
+[![Type](https://img.shields.io/badge/Type-Model%20Diagnostics-9370DB?style=flat-square)]()
+
 A diagnostic project for studying embedding-space behavior using neighborhood preservation, clustering behavior, graph connectivity, and spectral structure.
 
-**Focus:** embedding geometry, representation analysis, model diagnostics
+🔗 **Repo:** `https://github.com/subhaaniii/spectral-geometry-embedding-analysis`
 
----
+</td>
+<td width="50%" valign="top">
 
-### FT-Transformer EHR Retrieval
+### 📊 FT-Transformer EHR Retrieval
+
+[![Focus](https://img.shields.io/badge/Focus-Tabular%20Deep%20Learning-4169E1?style=flat-square)]()
+[![Area](https://img.shields.io/badge/Area-Retrieval%20Evaluation-00AEEF?style=flat-square)]()
+[![Data](https://img.shields.io/badge/Data-Synthetic%20EHR-20B2AA?style=flat-square)]()
+
 A controlled benchmark comparing MLP and FT-Transformer-style tabular encoders for EHR-style retrieval tasks.
 
-**Focus:** tabular deep learning, retrieval evaluation, synthetic EHR-style data
+🔗 **Repo:** `https://github.com/subhaaniii/ft-transformer-ehr-retrieval`
 
----
+</td>
+</tr>
 
-### False-Negative-Aware Contrastive Learning
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ False-Negative-Aware Contrastive Learning
+
+[![Focus](https://img.shields.io/badge/Focus-Contrastive%20Learning-FF8C00?style=flat-square)]()
+[![Loss](https://img.shields.io/badge/Loss-InfoNCE-FF7F50?style=flat-square)]()
+[![Topic](https://img.shields.io/badge/Topic-False%20Negatives-DC143C?style=flat-square)]()
+
 An experiment studying how false negatives affect contrastive retrieval and how loss design changes model behavior.
 
-**Focus:** contrastive learning, InfoNCE, false negatives, retrieval systems
+🔗 **Repo:** `https://github.com/subhaaniii/fn-aware-contrastive-learning`
 
----
+</td>
+<td width="50%" valign="top">
 
-### Propensity Matching for Multimodal Pairs
+### 🔗 Propensity Matching for Multimodal Pairs
+
+[![Focus](https://img.shields.io/badge/Focus-Multimodal%20Pairing-6A5ACD?style=flat-square)]()
+[![Method](https://img.shields.io/badge/Method-Propensity%20Matching-8A2BE2?style=flat-square)]()
+[![Area](https://img.shields.io/badge/Area-Retrieval%20Evaluation-4682B4?style=flat-square)]()
+
 A project exploring pseudo-pairing, pair quality, and matching strategies in multimodal retrieval experiments.
 
-**Focus:** multimodal pairing, propensity matching, retrieval evaluation
+🔗 **Repo:** `https://github.com/subhaaniii/propensity-matching-multimodal-pairs`
 
----
+</td>
+</tr>
 
-### CXR-Text Bridge Retrieval
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 CXR-Text Bridge Retrieval
+
+[![Focus](https://img.shields.io/badge/Focus-Medical%20AI-20B2AA?style=flat-square)]()
+[![Area](https://img.shields.io/badge/Area-Multimodal%20Retrieval-008B8B?style=flat-square)]()
+[![Topic](https://img.shields.io/badge/Topic-Representation%20Learning-3CB371?style=flat-square)]()
+
 A controlled medical AI-style project studying CXR-text retrieval and multimodal alignment.
 
-**Focus:** medical AI, multimodal retrieval, representation learning
+🔗 **Repo:** `https://github.com/subhaaniii/cxr-text-bridge-retrieval`
 
----
+</td>
+<td width="50%" valign="top">
 
-## Applied Software Projects
+### 🎬 Sumora
 
-### Sumora
+[![Focus](https://img.shields.io/badge/Focus-Web%20Application-000000?style=flat-square)]()
+[![Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20TypeScript-111827?style=flat-square)]()
+[![Type](https://img.shields.io/badge/Type-Applied%20Software-FF1493?style=flat-square)]()
+
 A natural-language movie discovery web application built with Next.js, TypeScript, Tailwind CSS, and movie APIs.
 
-**Focus:** web application development, API integration, applied AI-style search
+🔗 **Repo:** `https://github.com/subhaaniii/sumora`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Evaluation Methods I Work With
+<br/>
 
-- Recall@K
-- Lift-over-random
-- Positive-pair similarity
-- Contrastive loss behavior
-- Neighborhood preservation
-- Trustworthiness
-- Clustering metrics
-- Embedding geometry
-- Spectral graph diagnostics
+<div align="center">
+
+## 📊 Evaluation Methods I Work With
+
+<p>
+  <img src="https://img.shields.io/badge/Recall@K-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lift--over--Random-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Positive%20Pair%20Similarity-0F766E?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Contrastive%20Loss%20Behavior-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Neighborhood%20Preservation-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trustworthiness-0F766E?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Clustering%20Metrics-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embedding%20Geometry-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spectral%20Graph%20Diagnostics-111827?style=for-the-badge" />
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦`
+
+</div>
+
+<br/>
 
 ---
 
-## Tools & Technologies
+## 🧰 Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,matplotlib" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,git,github,vscode" />
+
+</p>
 
 **AI/ML:** Python, PyTorch, NumPy, Pandas, Scikit-learn, Matplotlib  
 **Software Development:** TypeScript, Next.js, Tailwind CSS, Git, GitHub  
@@ -87,13 +267,80 @@ A natural-language movie discovery web application built with Next.js, TypeScrip
 
 ---
 
-## Current Focus
+<br/>
 
-I am currently building a portfolio of AI/ML and applied software projects focused on model behavior, evaluation, retrieval, representation learning, and practical AI systems.
+<div align="center">
 
----
+`✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦`
 
-## Links
+</div>
 
-- GitHub: [github.com/subhaaniii](https://github.com/subhaaniii)
-- LinkedIn: [linkedin.com/in/mahrufa-binta-ali](https://www.linkedin.com/in/mahrufa-binta-ali/)  
+<br/>
+
+## 📈 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhaaniii&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦`
+
+</div>
+
+<br/>
+
+## 🌱 Current Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-AI%2FML%20Research%20Portfolio-7B68EE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exploring-Multimodal%20Learning-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Evaluating-Model%20Behavior-20B2AA?style=for-the-badge" />
+</p>
+
+I am currently building a portfolio of **AI/ML** and **applied software projects** focused on model behavior, evaluation, retrieval, representation learning, and practical AI systems.
+
+<br/>
+
+<div align="center">
+
+`✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦`
+
+</div>
+
+<br/>
+
+<br/>
+
+<div align="center">
+
+## 🔗 Connect With Me
+
+<a href="https://github.com/subhaaniii">
+  <img src="https://img.shields.io/badge/GitHub-subhaaniii-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mahrufa-binta-ali/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mahrufa%20Binta%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Building research-minded AI systems, one experiment at a time ✨
