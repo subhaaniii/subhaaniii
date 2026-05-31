@@ -268,31 +268,31 @@ A natural-language movie discovery web application built with Next.js, TypeScrip
 <table>
 <tr>
 <td align="center" width="25%">
-<h3>🧠</h3>
-<b>AI/ML Research</b>
+<h3>🧪</h3>
+<b>Controlled Experiments</b>
 <br/>
-<sub>Representation learning, multimodal learning, model behavior</sub>
+<sub>Sample size, pairing, loss design, and split behavior</sub>
 </td>
 
 <td align="center" width="25%">
 <h3>📊</h3>
-<b>Model Evaluation</b>
+<b>Evaluation Metrics</b>
 <br/>
-<sub>Recall@K, lift-over-random, embedding diagnostics</sub>
+<sub>Recall@K, lift-over-random, positive-pair similarity</sub>
 </td>
 
 <td align="center" width="25%">
-<h3>🔍</h3>
-<b>Retrieval Systems</b>
+<h3>🧬</h3>
+<b>Embedding Analysis</b>
 <br/>
-<sub>CXR-text, EHR-style retrieval, contrastive learning</sub>
+<sub>Geometry, clustering, trustworthiness, spectral diagnostics</sub>
 </td>
 
 <td align="center" width="25%">
 <h3>🛠️</h3>
-<b>Applied Software</b>
+<b>Working Systems</b>
 <br/>
-<sub>Next.js, TypeScript, APIs, web applications</sub>
+<sub>Python ML pipelines, GitHub docs, Next.js web apps</sub>
 </td>
 </tr>
 </table>
@@ -303,10 +303,6 @@ A natural-language movie discovery web application built with Next.js, TypeScrip
   <img src="https://img.shields.io/badge/Main%20Focus-AI%2FML%20Research-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Project%20Style-Controlled%20Experiments-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Builds-Applied%20AI%20Systems-0F766E?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
 </p>
 
 <br/>
