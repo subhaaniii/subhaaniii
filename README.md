@@ -61,4 +61,4 @@ I am preparing for PhD and research opportunities in AI/ML, especially in machin
 ## Links
 
 - GitHub: https://github.com/subhaaniii
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: https://www.linkedin.com/in/mahrufa-binta-ali/
