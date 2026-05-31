@@ -2,8 +2,11 @@
 
 # Hi, I'm Mahrufa Binta Ali ✨
 
-### AI/ML Research & Applied Software Development  
-### Multimodal Learning • Model Evaluation • Retrieval Systems • Applied AI Systems
+### AI/ML Research & Applied Software Development
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=800&lines=Multimodal+Learning+%E2%80%A2+Model+Evaluation+%E2%80%A2+Retrieval+Systems;Applied+AI+Systems+%E2%80%A2+Research-Minded+Software+Development" />
+</p>
 
 </div>
 
@@ -36,11 +39,9 @@ I care about what the model actually learned, how it behaves, where it fails, an
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
 
-</div>
-
+<div align="center">
 
 ## ✨ Research & Technical Interests ✨
-
 
 </div>
 
@@ -120,7 +121,7 @@ I care about what the model actually learned, how it behaves, where it fails, an
 
 A diagnostic project for studying embedding-space behavior using neighborhood preservation, clustering behavior, graph connectivity, and spectral structure.
 
-🔗 **Repo:** [View Repository](https://github.com/subhaaniii/spectral-geometry-embedding-analysis)
+🔗 [View Repository](https://github.com/subhaaniii/spectral-geometry-embedding-analysis)
 
 </td>
 <td width="50%" valign="top">
@@ -133,7 +134,7 @@ A diagnostic project for studying embedding-space behavior using neighborhood pr
 
 A controlled benchmark comparing MLP and FT-Transformer-style tabular encoders for EHR-style retrieval tasks.
 
-🔗 **Repo:** [View Repository](https://github.com/subhaaniii/ft-transformer-ehr-retrieval)
+🔗 [View Repository](https://github.com/subhaaniii/ft-transformer-ehr-retrieval)
 
 </td>
 </tr>
@@ -149,7 +150,7 @@ A controlled benchmark comparing MLP and FT-Transformer-style tabular encoders f
 
 An experiment studying how false negatives affect contrastive retrieval and how loss design changes model behavior.
 
-🔗 **Repo:** [View Repository](https://github.com/subhaaniii/fn-aware-contrastive-learning)
+🔗 [View Repository](https://github.com/subhaaniii/fn-aware-contrastive-learning)
 
 </td>
 <td width="50%" valign="top">
@@ -162,7 +163,7 @@ An experiment studying how false negatives affect contrastive retrieval and how 
 
 A project exploring pseudo-pairing, pair quality, and matching strategies in multimodal retrieval experiments.
 
-🔗 **Repo:** [View Repository](https://github.com/subhaaniii/propensity-matching-multimodal-pairs)
+🔗 [View Repository](https://github.com/subhaaniii/propensity-matching-multimodal-pairs)
 
 </td>
 </tr>
@@ -178,7 +179,7 @@ A project exploring pseudo-pairing, pair quality, and matching strategies in mul
 
 A controlled medical AI-style project studying CXR-text retrieval and multimodal alignment.
 
-🔗 **Repo:** [View Repository](https://github.com/subhaaniii/cxr-text-bridge-retrieval)
+🔗 [View Repository](https://github.com/subhaaniii/cxr-text-bridge-retrieval)
 
 </td>
 <td width="50%" valign="top">
@@ -191,7 +192,7 @@ A controlled medical AI-style project studying CXR-text retrieval and multimodal
 
 A natural-language movie discovery web application built with Next.js, TypeScript, Tailwind CSS, and movie APIs.
 
-🔗 **Repo:** [View Repository](https://github.com/subhaaniii/sumora)
+🔗 [View Repository](https://github.com/subhaaniii/sumora)
 
 </td>
 </tr>
@@ -260,15 +261,49 @@ A natural-language movie discovery web application built with Next.js, TypeScrip
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
 </p>
 
-## 📈 GitHub Overview
+## 📌 Portfolio Snapshot
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhaaniii&theme=tokyonight&hide_border=true" />
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>🧠</h3>
+<b>AI/ML Research</b>
+<br/>
+<sub>Representation learning, multimodal learning, model behavior</sub>
+</td>
+
+<td align="center" width="25%">
+<h3>📊</h3>
+<b>Model Evaluation</b>
+<br/>
+<sub>Recall@K, lift-over-random, embedding diagnostics</sub>
+</td>
+
+<td align="center" width="25%">
+<h3>🔍</h3>
+<b>Retrieval Systems</b>
+<br/>
+<sub>CXR-text, EHR-style retrieval, contrastive learning</sub>
+</td>
+
+<td align="center" width="25%">
+<h3>🛠️</h3>
+<b>Applied Software</b>
+<br/>
+<sub>Next.js, TypeScript, APIs, web applications</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Main%20Focus-AI%2FML%20Research-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project%20Style-Controlled%20Experiments-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Builds-Applied%20AI%20Systems-0F766E?style=for-the-badge" />
+</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
