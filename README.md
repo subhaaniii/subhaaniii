@@ -29,30 +29,18 @@ I like building projects that do not stop at:
 > “The model trained successfully.”
 
 I care about what the model actually learned, how it behaves, where it fails, and whether the evaluation proves meaningful progress.
-
 <br clear="right"/>
+
 
 <div align="center">
 
-`✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
-</p>
-
-<br/>
-
-<br/>
-
-<div align="center">
-
-<br/>
-
-<div align="center">
 
 ## ✨ Research & Technical Interests ✨
+
 
 </div>
 
@@ -132,7 +120,7 @@ I care about what the model actually learned, how it behaves, where it fails, an
 
 A diagnostic project for studying embedding-space behavior using neighborhood preservation, clustering behavior, graph connectivity, and spectral structure.
 
-🔗 **Repo:** `https://github.com/subhaaniii/spectral-geometry-embedding-analysis`
+🔗 **Repo:** [View Repository](https://github.com/subhaaniii/spectral-geometry-embedding-analysis)
 
 </td>
 <td width="50%" valign="top">
@@ -145,7 +133,7 @@ A diagnostic project for studying embedding-space behavior using neighborhood pr
 
 A controlled benchmark comparing MLP and FT-Transformer-style tabular encoders for EHR-style retrieval tasks.
 
-🔗 **Repo:** `https://github.com/subhaaniii/ft-transformer-ehr-retrieval`
+🔗 **Repo:** [View Repository](https://github.com/subhaaniii/ft-transformer-ehr-retrieval)
 
 </td>
 </tr>
@@ -161,7 +149,7 @@ A controlled benchmark comparing MLP and FT-Transformer-style tabular encoders f
 
 An experiment studying how false negatives affect contrastive retrieval and how loss design changes model behavior.
 
-🔗 **Repo:** `https://github.com/subhaaniii/fn-aware-contrastive-learning`
+🔗 **Repo:** [View Repository](https://github.com/subhaaniii/fn-aware-contrastive-learning)
 
 </td>
 <td width="50%" valign="top">
@@ -174,7 +162,7 @@ An experiment studying how false negatives affect contrastive retrieval and how 
 
 A project exploring pseudo-pairing, pair quality, and matching strategies in multimodal retrieval experiments.
 
-🔗 **Repo:** `https://github.com/subhaaniii/propensity-matching-multimodal-pairs`
+🔗 **Repo:** [View Repository](https://github.com/subhaaniii/propensity-matching-multimodal-pairs)
 
 </td>
 </tr>
@@ -190,7 +178,7 @@ A project exploring pseudo-pairing, pair quality, and matching strategies in mul
 
 A controlled medical AI-style project studying CXR-text retrieval and multimodal alignment.
 
-🔗 **Repo:** `https://github.com/subhaaniii/cxr-text-bridge-retrieval`
+🔗 **Repo:** [View Repository](https://github.com/subhaaniii/cxr-text-bridge-retrieval)
 
 </td>
 <td width="50%" valign="top">
@@ -203,13 +191,19 @@ A controlled medical AI-style project studying CXR-text retrieval and multimodal
 
 A natural-language movie discovery web application built with Next.js, TypeScript, Tailwind CSS, and movie APIs.
 
-🔗 **Repo:** `https://github.com/subhaaniii/sumora`
+🔗 **Repo:** [View Repository](https://github.com/subhaaniii/sumora)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
+</p>
+
+<br/>
 
 <br/>
 
@@ -239,43 +233,32 @@ A natural-language movie discovery web application built with Next.js, TypeScrip
 
 <br/>
 
-<div align="center">
-
-`✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦`
-
-</div>
-
-<br/>
-
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
+</p>
 
 ## 🧰 Tools & Technologies
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,matplotlib" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,pytorch,typescript,nextjs,tailwind,git,github,vscode" />
 </p>
 
-**AI/ML:** Python, PyTorch, NumPy, Pandas, Scikit-learn, Matplotlib  
-**Software Development:** TypeScript, Next.js, Tailwind CSS, Git, GitHub  
-**Research Workflow:** Experiment design, metric analysis, reproducible documentation, result interpretation
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+</p>
 
----
-
-<br/>
-
-<div align="center">
-
-`✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦`
-
-</div>
-
-<br/>
+<p align="center">
+  <b>AI/ML:</b> Python, PyTorch, NumPy, Pandas, Scikit-learn, Matplotlib<br/>
+  <b>Software Development:</b> TypeScript, Next.js, Tailwind CSS, Git, GitHub<br/>
+  <b>Research Workflow:</b> Experiment design, metric analysis, reproducible documentation, result interpretation
+</p>
+<br>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
+</p>
 
 ## 📈 GitHub Overview
 
@@ -287,11 +270,9 @@ A natural-language movie discovery web application built with Next.js, TypeScrip
 
 <br/>
 
-<div align="center">
-
-`✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦`
-
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
+</p>
 
 <br/>
 
@@ -299,21 +280,17 @@ A natural-language movie discovery web application built with Next.js, TypeScrip
 
 <p align="center">
   <img src="https://img.shields.io/badge/Building-AI%2FML%20Research%20Portfolio-7B68EE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Exploring-Multimodal%20Learning-FF69B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Evaluating-Model%20Behavior-20B2AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exploring-Multimodal%20Learning-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Evaluating-Model%20Behavior-0F766E?style=for-the-badge" />
 </p>
 
 I am currently building a portfolio of **AI/ML** and **applied software projects** focused on model behavior, evaluation, retrieval, representation learning, and practical AI systems.
 
 <br/>
 
-<div align="center">
-
-`✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦`
-
-</div>
-
-<br/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
+</p>
 
 <br/>
 
@@ -329,18 +306,9 @@ I am currently building a portfolio of **AI/ML** and **applied software projects
   <img src="https://img.shields.io/badge/LinkedIn-Mahrufa%20Binta%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</div>
-
 <br/>
-
-<div align="center">
-
-`✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦`
-
-</div>
-
 <br/>
-
-<div align="center">
 
 ### Building research-minded AI systems, one experiment at a time ✨
+
+</div>
