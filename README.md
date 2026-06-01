@@ -203,11 +203,7 @@ A natural-language movie discovery web application built with Next.js, TypeScrip
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
 </p>
-
 <br/>
-
-<br/>
-
 <div align="center">
 
 ## 📊 Evaluation Methods I Work With
