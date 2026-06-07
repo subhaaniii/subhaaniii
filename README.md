@@ -121,7 +121,7 @@ I care about what the model actually learned, how it behaves, where it fails, an
 
 A diagnostic project for studying embedding-space behavior using neighborhood preservation, clustering behavior, graph connectivity, and spectral structure.
 
-🔗 [View Repository](https://github.com/subhaaniii/spectral-geometry-embedding-analysis)
+🔗 [View Repository](https://github.com/mahrufa-binta-ali/spectral-geometry-embedding-analysis)
 
 </td>
 <td width="50%" valign="top">
@@ -134,7 +134,7 @@ A diagnostic project for studying embedding-space behavior using neighborhood pr
 
 A controlled benchmark comparing MLP and FT-Transformer-style tabular encoders for EHR-style retrieval tasks.
 
-🔗 [View Repository](https://github.com/subhaaniii/ft-transformer-ehr-retrieval)
+🔗 [View Repository](https://github.com/mahrufa-binta-ali/ft-transformer-ehr-retrieval)
 
 </td>
 </tr>
@@ -150,7 +150,7 @@ A controlled benchmark comparing MLP and FT-Transformer-style tabular encoders f
 
 An experiment studying how false negatives affect contrastive retrieval and how loss design changes model behavior.
 
-🔗 [View Repository](https://github.com/subhaaniii/fn-aware-contrastive-learning)
+🔗 [View Repository](https://github.com/mahrufa-binta-ali/fn-aware-contrastive-learning)
 
 </td>
 <td width="50%" valign="top">
@@ -163,7 +163,7 @@ An experiment studying how false negatives affect contrastive retrieval and how 
 
 A project exploring pseudo-pairing, pair quality, and matching strategies in multimodal retrieval experiments.
 
-🔗 [View Repository](https://github.com/subhaaniii/propensity-matching-multimodal-pairs)
+🔗 [View Repository](https://github.com/mahrufa-binta-ali/propensity-matching-multimodal-pairs)
 
 </td>
 </tr>
@@ -179,7 +179,7 @@ A project exploring pseudo-pairing, pair quality, and matching strategies in mul
 
 A controlled medical AI-style project studying CXR-text retrieval and multimodal alignment.
 
-🔗 [View Repository](https://github.com/subhaaniii/cxr-text-bridge-retrieval)
+🔗 [View Repository](https://github.com/mahrufa-binta-ali/cxr-text-bridge-retrieval)
 
 </td>
 <td width="50%" valign="top">
@@ -192,7 +192,7 @@ A controlled medical AI-style project studying CXR-text retrieval and multimodal
 
 A natural-language movie discovery web application built with Next.js, TypeScript, Tailwind CSS, and movie APIs.
 
-🔗 [View Repository](https://github.com/subhaaniii/sumora)
+🔗 [View Repository](https://github.com/mahrufa-binta-ali/sumora)
 
 </td>
 </tr>
@@ -325,8 +325,8 @@ I am currently building a portfolio of **AI/ML** and **applied software projects
 
 ## 🔗 Connect With Me
 
-<a href="https://github.com/subhaaniii">
-  <img src="https://img.shields.io/badge/GitHub-subhaaniii-111827?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/mahrufa-binta-ali">
+  <img src="https://img.shields.io/badge/GitHub-mahrufa-binta-ali-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/mahrufa-binta-ali/">
