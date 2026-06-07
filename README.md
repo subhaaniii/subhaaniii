@@ -326,7 +326,7 @@ I am currently building a portfolio of **AI/ML** and **applied software projects
 ## 🔗 Connect With Me
 
 <a href="https://github.com/mahrufa-binta-ali">
-  <img src="https://img.shields.io/badge/GitHub-mahrufa-binta-ali-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=mahrufa-binta-ali&color=111827&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/mahrufa-binta-ali/">
@@ -337,5 +337,4 @@ I am currently building a portfolio of **AI/ML** and **applied software projects
 <br/>
 
 ### Building research-minded AI systems, one experiment at a time ✨
-
 </div>
